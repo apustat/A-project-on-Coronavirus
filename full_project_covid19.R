@@ -1,4 +1,4 @@
-setwd("C:/Users/apust/Desktop/COVID 19_Project")
+setwd("C:/Users/.../COVID 19_Project")
 data=read.csv("covid-19-data.csv", header=TRUE)
 attach(data)
 names(data)
